@@ -5,7 +5,7 @@ the created data via UDP connection to the Raspberry Pi Java server. The server 
 
 Visual Studio development environment is required for this project.
 
-The server application
+The server application:
 
 https://github.com/ospekki/music-visualizer-server
 
