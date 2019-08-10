@@ -1,7 +1,8 @@
 # music-visualizer-client
 
 This is a C# program for Windows that listens to the music and sends 
-the created data via UDP connection to the Raspberry Pi Java server
+the created data via UDP connection to the Raspberry Pi Java server.
+
 The server controls WS281X led strip based on the data.
 
 Visual Studio development environment is required for this project.
