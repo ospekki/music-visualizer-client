@@ -9,6 +9,9 @@ The server application:
 
 https://github.com/ospekki/music-visualizer-server
 
+This program uses Bass audio library, which is free for non-commercial use.
+https://www.un4seen.com/
+
 ## Running the program
 
 - Select the playback device.
