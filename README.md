@@ -1,4 +1,4 @@
-# music-visualizer-client
+# WS281X Music Visualizer Client
 
 This is a C# program for Windows that listens to the music and sends 
 the created data via UDP connection to the Raspberry Pi Java server. The server controls WS281X led strip based on the data.
@@ -9,7 +9,7 @@ The server application:
 
 https://github.com/ospekki/music-visualizer-server
 
-This program uses Bass audio library, which is free for non-commercial use.
+This program uses the BASS audio library, which is free for non-commercial use.
 
 https://www.un4seen.com/
 
