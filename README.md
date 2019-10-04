@@ -1,6 +1,6 @@
 # WS281X Music Visualizer Client
 
-This is a C# WPF program for Windows that listens to the music and sends 
+This is a C# WPF program for Windows that listens to music and sends 
 the created data via UDP connection to the Raspberry Pi Java server. The server controls WS281X led strip based on the data.
 
 Visual Studio development environment is required for this project.
