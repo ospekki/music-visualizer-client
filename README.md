@@ -13,6 +13,8 @@ This program uses the BASS audio library, which is free for non-commercial use.
 
 https://www.un4seen.com/
 
+[![alt text](https://www.dropbox.com/s/f71dd5qi3kmyc3o/Raspberry_Pi_WS2812B_LED_strip_music_visualizer.gif?raw=1)](https://www.youtube.com/watch?v=hVwcQ8_BEE8)
+
 ## Running the program
 
 - Select the playback device.
@@ -21,4 +23,4 @@ https://www.un4seen.com/
 - Set the number of LEDs.
 - When the server is running on the Raspberry Pi, you can click the "Enable" button. 
 
-![alt text](https://drive.google.com/uc?export=download&id=1mTp-3Gj95I5qR2uAdzMYqElf6FExTHIg)
+![alt text](https://www.dropbox.com/s/krc6nxnbgw805v1/image019.png?raw=1)
